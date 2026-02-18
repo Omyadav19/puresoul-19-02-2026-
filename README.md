@@ -120,8 +120,4 @@ App will run at 👉 [http://localhost:5173](http://localhost:5173)
 | **AI / APIs** | Groq, ElevenLabs, Google MediaPipe, TensorFlow.js |
 
 ---
-
-## 🤝 Contributing
-Contributions are welcome! 🎉  
-Fork → Branch → Commit → Push → PR
-
+ 
