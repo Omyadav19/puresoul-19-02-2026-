@@ -15,7 +15,7 @@ from elevenlabs import ElevenLabs
 from functools import wraps
 
 from validation import validate_email, validate_username, validate_password
-from models import db, User, TherapySession, TherapyMessage, 
+from models import db, User, TherapySession, TherapyMessage, ContactUs
 
 print("🔥 RUNNING UPDATED app.py FILE (Pro System) 🔥")
 
